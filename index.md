@@ -12,3 +12,9 @@ _italic text_
 _**italic bold text**_
 
 ![Labtocat](https://octodex.github.com/images/labtocat.png)
+
+
+```Python
+def saludo(nombre:str):
+    print(f'Hola {nombre}!')
+```
