@@ -10,3 +10,8 @@ normal text
 _italic text_
 
 _**italic bold text**_
+
+
+THis is the Labtocat!
+
+![Labtocat](https://octodex.github.com/images/labtocat.png)
