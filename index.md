@@ -11,7 +11,10 @@ _italic text_
 
 _**italic bold text**_
 
+![Inspectocat](https://octodex.github.com/images/inspectocat.jpg)
 
-THis is the Labtocat!
+Task List for this PR
 
-![Labtocat](https://octodex.github.com/images/labtocat.png)
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
